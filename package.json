@@ -1,0 +1,14 @@
+{
+  "name": "uvw-snap",
+  "version": "1.0.0",
+  "description": "Snap cloned from jmoenig/Snap",
+  "main": "",
+  "repository": "https://github.com/uvworkspace/uvw-snap",
+  "author": "uvworkspace <uvw@mytraces.net>",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "webpack": "^4.23.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-concat-plugin": "3.0.0"
+  }
+}
